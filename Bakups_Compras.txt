@@ -1,0 +1,15 @@
+[{
+   "id" : {
+       64fe8c6db3b26e41fd773f17
+   },
+   "N_factura": 27337,
+   "Productos" [
+   "Schampoo",
+],
+   "M_pago": "Efectivo",
+   "fecha": {
+    "$date": "2023-08-12T11:59:05.823Z",
+},
+   "Proveedor": "Wilson",
+   "Total_factura": 200,
+   "Estado" :true,
