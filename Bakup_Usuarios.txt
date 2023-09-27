@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "6500528932eb19d3834cab99"
+  },
+  "Nombre": "Xiomara",
+  "Apellido": "Duque",
+  "Tipo_Documento": "Cedula",
+  "Documento": 1323432432,
+  "Direccion": "cr 32 # 107 c 99",
+  "Telefono": 245422,
+  "Correo": "xio@gmail.com",
+  "Rol": "Cliente",
+   
+  ],
+
+[{
+  "_id": {
+    "$oid": "6500528932eb19d3834cab99"
+  },
+  "Nombre": "Felipe",
+  "Apellido": "Guzman",
+  "Tipo_Documento": "Cedula",
+  "Documento": 1323432,
+  "Direccion": "cr 32 #  c 98",
+  "Telefono": 2455777,
+  "Correo": "feli@gmail.com",
+  "Rol": "Administrador",
+   
+  ],
